@@ -2,5 +2,9 @@
 
 class hello
 {
+public:
+	hello()
+	{
 
+	}
 };
